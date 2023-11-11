@@ -7,7 +7,7 @@ body
 background-position: center;
 background-size: cover;
 }
-.sign-up-form
+.sign-form
 {
 width: 300px;
 box-shadow: 0 0 3px 0 rgba(0,0,0,0.3);
@@ -17,10 +17,11 @@ margin: 8% auto 0;
 text-align: center;
 margin-top: 20px;
 }
-.sign-up-form h1
+.sign-form h1
 {
 color: blue;
 margin-bottom: 30px;
+
 }
 .input-box
 {
@@ -44,7 +45,7 @@ button
     outline: none;
     
 }
-.sign-btn
+.signbtn
 {
     background-color: #1c8adb;
 }
@@ -62,3 +63,5 @@ h1
 {
   color: darkblue;
 }
+
+
